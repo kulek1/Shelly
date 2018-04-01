@@ -1,7 +1,7 @@
 
 # Shelly
 
-Shelly is a own, basic version of shell from Linux.
+Shelly is an own, basic version of shell from Linux.
 It's written in C. You can learn how it works!
 
 <p align="center">
@@ -34,10 +34,10 @@ Write down `help` argument to show supported commands in terminal.
 ## Shelly options
 
 Using  `shopt` command you can:
-	- toggle compact view
-	- toggle colors in shelly
-	- toggle colors in `ls`
 
+ - toggle compact view
+ - toggle colors in shelly
+ - toggle colors in `ls`
 
 ## Usage
 
