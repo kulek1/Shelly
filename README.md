@@ -5,7 +5,7 @@ Shelly is an own, basic version of shell from Linux.
 It's written in C. You can learn how it works!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kulek1/ReadmeImages/master/shelly.png?token=AHQNCt5WiWLYa90QWj7ymW35Iyk_mjNdks5aye6jwA%3D%3D" alt="Size Limit example"
+  <img src="https://raw.githubusercontent.com/kulek1/readmeimages/master/shelly.png" alt="Shelly example"
        width="654" height="450">
 </p>
 
